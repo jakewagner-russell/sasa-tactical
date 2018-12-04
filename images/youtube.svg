@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="31px" viewBox="0 0 40 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.3%" y="-2.6%" width="124.6%" height="106.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.145210598 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Pseudostates-Copy-2" transform="translate(-14.000000, -454.000000)" fill="#344233">
+            <g id="Group-6" filter="url(#filter-1)" transform="translate(-1.000000, 429.000000)">
+                <g id="Group-5" transform="translate(20.000000, 28.000000)">
+                    <path d="M28.7247865,1.98756354 C27.911143,0.539865528 27.0279198,0.27377796 25.2298329,0.172484509 C23.4336502,0.0506101044 18.9166801,0 15.0037353,0 C11.0829537,0 6.564299,0.0506101044 4.76987417,0.17050698 C2.97574231,0.27377796 2.09054155,0.538180966 1.2694274,1.98756354 C0.431174652,3.43321078 0,5.92314002 0,10.30681 L0,10.3219711 C0,14.6866715 0.431174652,17.1954971 1.2694274,18.6260565 C2.09054155,20.0736813 2.97376478,20.3360335 4.76818961,20.4579079 C6.564299,20.5629367 11.0829537,20.6250458 15.0037353,20.6250458 C18.9166801,20.6250458 23.4336502,20.5629367 25.2318104,20.4599587 C27.0299706,20.3380843 27.9128276,20.0754391 28.7268373,18.628034 C29.5722677,17.1975479 30,14.6887222 30,10.3236556 L30,10.3087876 C30,5.92314002 29.5722677,3.43321078 28.7247865,1.98756354 Z M11.2500916,15.9375687 L11.2500916,4.68747711 L20.6250458,10.3125229 L11.2500916,15.9375687 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
